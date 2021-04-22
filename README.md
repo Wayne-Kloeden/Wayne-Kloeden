@@ -2,7 +2,7 @@
 - 👀 I’m interested in using github to learn about programming
 - 🌱 I’m currently learning ... to be humble
 - 💞️ I’m looking to collaborate on ... Azure ARM templates
-- 📫 How to reach me ... wayne kloeden_at_sa gov au 
+- 📫 How to reach me ... wayne kloeden_at_sa gov au, populate the "." in the spaces provided 
 
 <!---
 Wayne-Kloeden/Wayne-Kloeden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
